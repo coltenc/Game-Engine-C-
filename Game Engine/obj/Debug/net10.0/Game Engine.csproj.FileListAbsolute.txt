@@ -1,0 +1,15 @@
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\bin\Debug\net10.0\Game Engine.exe
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\bin\Debug\net10.0\Game Engine.deps.json
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\bin\Debug\net10.0\Game Engine.runtimeconfig.json
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\bin\Debug\net10.0\Game Engine.dll
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\bin\Debug\net10.0\Game Engine.pdb
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.AssemblyInfoInputs.cache
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.AssemblyInfo.cs
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.csproj.CoreCompileInputs.cache
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.dll
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\refint\Game Engine.dll
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.pdb
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Engine.genruntimeconfig.cache
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\ref\Game Engine.dll
+C:\Users\colte\OneDrive\Desktop\Game\Game Engine\obj\Debug\net10.0\Game Eng.B0E54D79.Up2Date
